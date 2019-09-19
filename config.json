@@ -1,0 +1,9 @@
+{
+    "Port": 7001,
+    "access_token": "ZTkyZjA1MDctMTBlZS00M2RhLThlY2YtNjlhY2I3MDc1NzZhMzkyYTkxMjUtYzQ3_PF84_consumer",
+    "databaseUrl": "mongodb://localhost:27017/Webex",
+    "ngGrok": "https://b1784c9e.ngrok.io",
+    "path": "/public/pdf/",
+    "subDomine": "botwaynomina",
+    "Tunnel": "https://botwaynomina.localtunnel.me"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "botconsulta",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "actions-on-google": "^2.2.0",
+        "body-parser": "^1.18.3",
+        "ciscospark": "^1.59.0",
+        "cors": "^2.8.5",
+        "dialogflow-fulfillment": "^0.4.1",
+        "express": "^4.17.1",
+        "localtunnel": "^1.9.2",
+        "mongojs": "^2.6.0",
+        "mongoose": "^5.6.9",
+        "nodemon": "^1.19.1",
+        "request": "^2.88.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node --use_strict index.js",
+        "dev": "nodemon --inspect index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
